@@ -1,2 +1,3 @@
-# jogo_de_adivinhacao
+# Jogo de Adivinhar
+
 Praticando curso Udemy

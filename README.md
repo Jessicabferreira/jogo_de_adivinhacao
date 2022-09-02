@@ -1,3 +1,3 @@
 # Jogo de Adivinhar
 
-Praticando curso Udemy
+É um jogo simples para praticar conhecimentos
